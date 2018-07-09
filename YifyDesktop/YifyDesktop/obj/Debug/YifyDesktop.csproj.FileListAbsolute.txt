@@ -1,0 +1,12 @@
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\bin\Debug\YifyDesktop.exe.config
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\bin\Debug\YifyDesktop.exe
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\bin\Debug\YifyDesktop.pdb
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\obj\Debug\YifyDesktop.Form1.resources
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\obj\Debug\YifyDesktop.Properties.Resources.resources
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\obj\Debug\YifyDesktop.csproj.GenerateResource.Cache
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\obj\Debug\YifyDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\obj\Debug\YifyDesktop.exe
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\obj\Debug\YifyDesktop.pdb
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karthick\source\repos\YifyDesktop\YifyDesktop\obj\Debug\YifyDesktop.csprojResolveAssemblyReference.cache

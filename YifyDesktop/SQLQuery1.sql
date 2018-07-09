@@ -1,0 +1,1 @@
+﻿select Title From MovieSource Where Genre = 'All' And Rating > '8' Order by Title ASC;
