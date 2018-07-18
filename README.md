@@ -8,3 +8,7 @@ A full featured desktop torrent app created with yify movies api.
 #Movies search function
 
 ![search](https://user-images.githubusercontent.com/16313961/42854456-97661bd2-8a59-11e8-8fa7-b14b25172321.gif)
+
+#Browse mode
+
+![browse](https://user-images.githubusercontent.com/16313961/42854625-4d82bcc2-8a5a-11e8-8569-245e6652cf59.gif)
